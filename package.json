@@ -2,6 +2,6 @@
   "name": "meu-site-devops",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p build && cp index.html build/ 2>/dev/null || (mkdir build && copy index.html build)"
+    "build": "mkdir -p build && cp index.html build/"
   }
 }
